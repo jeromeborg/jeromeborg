@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/superman.jpg" alt="Jerome BORG" height="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/superman.jpg" alt="Jerome BORG" height="200" style="border-radius:50%;"/>
 </p>
 <p>
   <strong>Hello, I'm Jérôme,</strong> Freelance web developer and trainer from France. I'am a fullstack developper, Laravel/React.js.
