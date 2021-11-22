@@ -7,8 +7,8 @@
 
 <p align="center">
   
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-4fc08d?style=flat-square&logo=laravel.js&logoColor=white" />  
-  <img alt="React-js" src="https://img.shields.io/badge/-React--js-4fc08d?style=flat-square&logo=react.js&logoColor=white" />  
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-4fc08d?style=flat-square&logo=laravel&logoColor=white" />  
+  <img alt="React-js" src="https://img.shields.io/badge/-React--js-4fc08d?style=flat-square&logo=react&logoColor=white" />  
   <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
