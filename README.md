@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/superman.jpg" alt="Jerome BORG" height="200" style="border-radius:50%;"/>
+  <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/profile.jpeg" alt="Jerome BORG" height="200" style="border-radius:50%;"/>
 </p>
 <p>
   <strong>Hello, I'm Jérôme,</strong> Freelance web developer and trainer from France. I'am a fullstack developper, Laravel/React.js.
 </p>
 
-<p>
+<p align="center">
   
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
   <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
