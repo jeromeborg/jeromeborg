@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/profile.jpeg" alt="Jerome BORG" height="200" style="border-radius:50%;"/>
+  <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/profile.png" alt="Jerome BORG" height="200"/>
 </p>
 <p align="center">
   <strong>Hello, I'm Jérôme,</strong> Freelance web developer and trainer from France. I'am a fullstack developper, Laravel/React.js.
@@ -16,6 +16,5 @@
   <img alt="yarn" src="https://img.shields.io/badge/-YARN-43853d?style=flat-square&logo=yarn&logoColor=white" />
 
 </p>
-<p>My portfolio :<a href="https://jeromeb.org" title="jeromb.org">jeromb.org</a></p>
-<p>My hustle project :<a href="https://www.clickandrun.net" title=".clickandrun.net">.clickandrun.net</a></p>
+<p align="center">My portfolio: <a href="https://jeromeb.org" title="jeromb.org">jeromb.org</a> &nbsp; - &nbsp; My hustle project: <a href="https://www.clickandrun.net" title=".clickandrun.net">.clickandrun.net</a></p>
 
