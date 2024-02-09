@@ -16,5 +16,5 @@
   <img alt="yarn" src="https://img.shields.io/badge/-YARN-43853d?style=flat-square&logo=yarn&logoColor=white" />
 
 </p>
-<p align="center">My portfolio: <a href="https://jeromeb.org" title="jeromb.org">jeromb.org</a> &nbsp; - &nbsp; My hustle project: <a href="https://www.clickandrun.net" title=".clickandrun.net">.clickandrun.net</a></p>
+<p align="center">My portfolio: <a href="https://jeromeb.org" title="jeromeb.org">jeromb.org</a> &nbsp; - &nbsp; My hustle project: <a href="https://www.clickandrun.net" title=".clickandrun.net">.clickandrun.net</a>&nbsp;<a href="https://www.the-blob.io" title=".the-blob.io">.the-blob.io</a></p>
 
