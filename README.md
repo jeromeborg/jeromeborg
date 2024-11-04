@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-4fc08d?style=flat-square&logo=laravel&logoColor=white" />  
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />  
   <img alt="Vue-js" src="https://img.shields.io/badge/-Vue--js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />  
   <img alt="React-js" src="https://img.shields.io/badge/-React--js-45b8d8?style=flat-square&logo=react&logoColor=white" />  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
