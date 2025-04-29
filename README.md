@@ -2,7 +2,7 @@
   <img src="https://github.com/jeromeborg/jeromeborg/blob/main/img/profile.png" alt="Jerome BORG" height="200"/>
 </p>
 <p align="center">
-  <strong>Hello, I'm Jérôme,</strong> Freelance web developer and trainer from France. I'am a fullstack developper, Laravel/React.js.
+  <strong>Hello, I'm Jérôme,</strong> Freelance web developer and trainer from France. I'am a fullstack developper, Laravel/Vue.js.
 </p>
 
 <p align="center">
